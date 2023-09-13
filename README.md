@@ -10,12 +10,12 @@ Hi, I'm Gabriel!
 <div style="display:inline-block" align="left">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/gdc27">
     <img src="https://komarev.com/ghpvc/?username=gdc27&label=Profile%20views&color=blue&style=flat" alt="gdc27" />
-    <a href="bento.me/gdc"><img src="https://img.shields.io/badge/all_my_links--white?logo=bento&logoColor=black&style=social" alt="my bento page"/></a>
-    <a href="bento.me/gdc"><img src="https://img.shields.io/badge/-buy_me_a_coffee-FFDD00?logo=buymeacoffee&style=flat&logoColor=black&labelColor=FFDD00" alt="buy me a coffee"/></a>
+    <a href="https://bento.me/gdc"><img src="https://img.shields.io/badge/all_my_links--white?logo=bento&logoColor=black&style=social" alt="my bento page"/></a>
+    <a href="https://www.buymeacoffee.com/gdc27"><img src="https://img.shields.io/badge/-buy_me_a_coffee-FFDD00?logo=buymeacoffee&style=flat&logoColor=black&labelColor=FFDD00" alt="buy me a coffee"/></a>
 </div>
 
 <br/>
-<img align="left" src="./images/header.png" alt="Illustration of me" width="320" />
+<img align="left" src="./images/header.png" alt="Illustration of me" width="270" />
 <hr>
 
 ```
@@ -27,6 +27,7 @@ gdc27@github
 📝 I have a strong interest in video game and web programming.
 🌱 Currently learning about Three.js and Unreal Engine.
 🌟 Main languages: JavaScript, Typescript.
+🇵🇹 I speak Portuguese, French, English and Spanish.
 🎵 I love to listen to lofi music.
 ```
 
@@ -50,12 +51,12 @@ gdc27@github
 | <img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mongodb/mongodb-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/mysql/mysql-original.svg" alt="mysql" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-### 💻 Software and Tools
+### 🛠️ Software and Tools
 
 | <img alt="git" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/git/git-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vscode/vscode-original.svg" alt="vscode" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/insomnia/insomnia-original.svg" alt="insomnia" width="45" height="45"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/docker/docker-original.svg" alt="docker" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/figma/figma-original.svg" alt="figma" width="40"> |
 | :--------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 
-### 👨🏽‍💻 OS
+### 💻 OS
 
 | <img alt="macOS" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/apple/apple-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/windows11/windows11-original.svg" alt="windows" width="40"> |
 | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
